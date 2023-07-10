@@ -1,0 +1,80 @@
+{
+    "broadArea": {
+        "name": "Computer Science & Engineering",
+        "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
+    },
+    "lab": "Network Security Lab",
+    "lab_display_name": "Network Security Lab",
+    "deployLab": true,
+    "phase": ,
+    "collegeName": "AMRT",
+    "baseUrl": "ns-au.vlabs.ac.in",
+    "introduction": "",
+    "experiments": [
+      {
+      "name": "Simulation of the Transmission Control Protocol (TCP) communication between two entities",
+      "short-name": "",
+      "repo": "https://github.com/virtual-labs/exp-tcp-au",
+      "tag": "",
+      "deploy": true
+    },
+      {
+      "name": "Active attacks - TCP SYN Flood attack",
+      "short-name": "active-attacks-TCP-SYN-flood-attack",
+      "repo": "https://github.com/virtual-labs/exp-active-attacks-au",
+      "tag": "",
+      "deploy": true
+    },
+      {
+      "name": "Passive attacks - Eavesdropping",
+      "short-name": "passive-attacks-eavesdropping",
+      "repo": "https://github.com/virtual-labs/exp-passive-attacks-au ",
+      "tag": "",
+      "deploy": true
+    },
+      {
+      "name": "Combining passive and active attacks - Replay Attacks",
+      "short-name": "combining-passive-and-active-attacks-replay-attacks",
+      "repo": "https://github.com/virtual-labs/exp-replay-attacks-au",
+      "tag": "",
+      "deploy": true
+    },
+      {
+      "name": "Simulation and working of Kerberos protocol for mutual authentication",
+      "short-name": "simulation-and-working-of-kerberos-protocol-for-mutual-authentication",
+      "repo": "https://github.com/virtual-labs/exp-kerberos-protocol-au",
+      "tag": "",
+      "deploy": true
+    },
+      {
+      "name": "To simulate the Secure Socket Layer (SSL) transmission between a user and a server",
+      "short-name": "simulate-SSL-transmission-between-user-and-server",
+      "repo": " https://github.com/virtual-labs/exp-ssl-simulation-au",
+      "tag": "",
+      "deploy": true
+    },
+      {
+      "name": "To understand intrusion prevention systems- Firewall",
+      "short-name": "understand-intrusion-prevention-systems-firewall",
+      "repo": "https://github.com/virtual-labs/exp-intrusion-prevention-systems-au",
+      "tag": "",
+      "deploy": true
+    },
+      {
+      "name": "Understanding Intrusion detection system using firewalls",
+      "short-name": "understanding-intrusion-detection-system-using-firewalls",
+      "repo": "https://github.com/virtual-labs/exp-intrusion-detection-system-au",
+      "tag": "",
+      "deploy": true
+    }
+    ],
+    "targetAudience": {
+        "UG": [],
+        "PG": []
+    },
+    "objective": "",
+    "courseAlignment": {
+        "description": "",
+        "universities": []
+    }
+}
